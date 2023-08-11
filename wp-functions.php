@@ -1,7 +1,8 @@
 <?php
 
 /**
-* USE of monthname (january, june) and monthcode (jan, jun) in permalinks
+* USE of monthname (january, june) and monthcode (jan, jun) in permalinks 
+* %monthname% | %monthcode% 
 */
 class Month_Name_Permalink {
 
